@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Isotopiste</title><link href="http://lescientifik.github.io/Isotopiste/" rel="alternate"></link><link href="http://lescientifik.github.io/Isotopiste/feeds/traceurs.atom.xml" rel="self"></link><id>http://lescientifik.github.io/Isotopiste/</id><updated>2016-05-09T00:00:00+02:00</updated><entry><title>Le 18-FDG</title><link href="http://lescientifik.github.io/Isotopiste/le-18-fdg.html" rel="alternate"></link><published>2016-05-09T00:00:00+02:00</published><author><name>HENRY Theophraste</name></author><id>tag:lescientifik.github.io,2016-05-09:Isotopiste/le-18-fdg.html</id><summary type="html">
+    &lt;h1&gt;Introduction&lt;/h1&gt;
+    &lt;div class="well"&gt;
+        Le 18-FDG ou 18 Fluoro-Déoxy-Glucose est un analogue radiopharmaceutique du glucose, dans lequel un groupe -OH est substitué par du Fluor 18, un radioisotope du Fluor 19. Le Fluor 18 présente les caractéristiques suivantes:
+        &lt;ul&gt;
+            &lt;li&gt;désintégration en Oxygene 18- par radioactivité &amp;beta;+&lt;/li&gt;
+            &lt;li&gt;période radioactive (ou demi-vie): 109,8 min&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-md-8"&gt;
+            &lt;figure&gt;&lt;img src="http://lescientifik.github.io/Isotopiste/static/18-FDG.svg" alt="formule chimique du 18-FDG" /&gt;
+                &lt;figcaption&gt;Par &lt;a href="//commons.wikimedia.org/wiki/User:Anypodetos" title="User:Anypodetos"&gt;Anypodetos&lt;/a&gt; - Travail personnel, Domaine public, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=8677523"&gt;Source&lt;/a&gt;&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-4"&gt;
+            &lt;figure&gt;&lt;img src="http://lescientifik.github.io/Isotopiste/static/Beta-D-Glucose.svg" alt="formule chimique du FDG" /&gt;
+                &lt;figcaption&gt;Par &lt;a href="//commons.wikimedia.org/wiki/User:Yikrazuul" title="User:Yikrazuul"&gt;Yikrazuul&lt;/a&gt; - Travail personnel, Domaine public, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=7991809"&gt;Source&lt;/a&gt;&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div style="text-align:center;"&gt;On Constate ici la substitution du groupement hydroxyle en 2 par le Fluor radioactif.&lt;/div&gt;
+    &lt;h2&gt;Biologie moléculaire&lt;/h2&gt;
+    &lt;p&gt;
+        Le glucose est transporté activement jusque dans la cellule par le transporteur GLUT. En intracellulaire, c'est l'hexokinase qui va phosphoryler le 18-FDG (mais aussi bien évidemment le glucose). Cette phosphorylation est l'étape d'entrée dans le cycle
+        de glycolyse.
+    &lt;/p&gt;
+    &lt;p&gt;
+        En théorie, le glucose continue dans la voie de la glycolyse pour se transformer en énergie utilisable par le cellule. Cependant, le 18-FDG ne peut pas rentrer dans cette voie et se retrouve donc piégée dans la cellule en tant que FDG-6-Phosphate
+    &lt;/p&gt;
+    &lt;h2&gt;Metabolisme&lt;/h2&gt;
+    &lt;p&gt;
+        Le 18 FDG , comme le glucose, est emmené dans les cellules en demande énergetique. De par son incapacite à rentrer dans la voie de la glycolyse, celui-ci va s'accumuler dans la cellule jusqu'a sa désintegration.
+    &lt;/p&gt;
+    &lt;h1&gt;Pharmacocinetique&lt;/h1&gt;
+    &lt;div class="well"&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Absorption: par voie intraveineuse, la distribution dans le compartiment vasculaire est biexponentielle avec une periode de distribution inferieure à 1 minute et une période d'élimination d'environ 12 min.&lt;/li&gt;
+            &lt;li&gt;Distribution physiologique:&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;accumulation cellulaire, pouvant être influencée par l'insuline, et donc par l'alimentation et l'existence d'un diabete sucré (diminution de l'accumulation cellulaire chez les diabétiques).&lt;/li&gt;
+                &lt;li&gt;distribution diffuse, mais en particulier dans les organes consommateurs de glucose:&lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;cerveau: 7% de l'activite injectée qu cours des 80-100 min suivant l'injection&lt;/li&gt;
+                    &lt;li&gt;coeur: 3% de l'activité en 40 min.&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;li&gt;Elimination: principalement rénale, avec 20% de l'activité injectée excrétée dans les 2h qui suivent l'injection&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;h1&gt;Grandes indications de la TEP au 18-FDG&lt;/h1&gt;
+    &lt;span class="label label-info"&gt;Oncologie&lt;/span&gt;
+    &lt;div class="well"&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Diagnostic:&lt;/strong&gt;&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Caractérisation d'un nodule pulmonaire isolé&lt;/li&gt;
+                &lt;li&gt;Détection d'un cancer primitif d'origine inconnue, révélé par exemple par une adénopathie cervicale, une métastase hépatique ou osseuse&lt;/li&gt;
+                &lt;li&gt;Caractérisation d'une masse pancréatique.&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Stadification:&lt;/strong&gt;&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Tumeurs des voies aérodigestives supérieures y compris pour orienter les prélèvements biopsiques&lt;/li&gt;
+                &lt;li&gt;Cancer primitif pulmonaire&lt;/li&gt;
+                &lt;li&gt;Cancer du sein localement avancé&lt;/li&gt;
+                &lt;li&gt;Cancer de l'œsophage&lt;/li&gt;
+                &lt;li&gt;Cancer du pancréas&lt;/li&gt;
+                &lt;li&gt;Cancer colorectal, en particulier restadification des récidives démontrées&lt;/li&gt;
+                &lt;li&gt;Lymphome malin&lt;/li&gt;
+                &lt;li&gt;Mélanome malin lorsque l'indice de Breslow &gt; 1,5 mm ou qu'il existe des métastases ganglionnaires lors du diagnostic initial.&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Suivi de la réponse thérapeutique:&lt;/strong&gt;&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Lymphome malin&lt;/li&gt;
+                &lt;li&gt;Cancer des voies aérodigestives supérieures&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Détection des récidives suspectées:&lt;/strong&gt;&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Gliome malin de haut grade (III ou IV)&lt;/li&gt;
+                &lt;li&gt;Cancer des voies aérodigestives supérieures&lt;/li&gt;
+                &lt;li&gt;Cancer (non médullaire) de la thyroïde chez un patient présentant une concentration sérique élevée de thyroglobuline et des résultats négatifs lors d'une scintigraphie du corps entier à l'iode-131&lt;/li&gt;
+                &lt;li&gt;Cancer primitif pulmonaire (voir également rubrique 4.4)&lt;/li&gt;
+                &lt;li&gt;Cancer du sein&lt;/li&gt;
+                &lt;li&gt;Cancer du pancréas&lt;/li&gt;
+                &lt;li&gt;Cancer colorectal&lt;/li&gt;
+                &lt;li&gt;Cancer de l'ovaire&lt;/li&gt;
+                &lt;li&gt;Lymphome malin&lt;/li&gt;
+                &lt;li&gt;Mélanome malin&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;span class="label label-info"&gt;Cardiologie&lt;/span&gt;
+    &lt;div class="well"&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;cible diagnostique: &lt;/strong&gt;tissu myocardique viable consommant du glucose mais hypoperfusé&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Evaluation de la viabilité myocardique chez les patients présentant une IVG sévère et candidats à une revascularisation, si imagerie conventionnelle non probante.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;span class="label label-info"&gt;Neurologie&lt;/span&gt;
+    &lt;div class="well"&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;cible diagnostique: &lt;/strong&gt;hypométabolisme du glucose en phase interictale.&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Localisation des foyers épileptogènes lors de l'évaluation pré-chirurgicale d'une épilepsie partielle temporale.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;h1&gt;Le 18-FDG en pratique&lt;/h1&gt;
+    &lt;p&gt;
+        L'activité habituellement recommandée chez l'adulte est de 100 à 400 Mbq selon la masse corporelle et le type de caméra utilisé.
+    &lt;/p&gt;
+    &lt;div class="well"&gt;
+        Questions à poser au patient:
+        &lt;ul&gt;
+            &lt;li&gt;Diabète&lt;/li&gt;
+            &lt;li&gt;prise de médicaments modifiants la sensibilité de l'examen:&lt;/li&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Corticostéroïdes&lt;/li&gt;
+                &lt;li&gt;Valproate&lt;/li&gt;
+                &lt;li&gt;Carbamazépine&lt;/li&gt;
+                &lt;li&gt;Phénytoïne, Phénobarbital&lt;/li&gt;
+                &lt;li&gt;Catécholamines&lt;/li&gt;
+            &lt;/ul&gt;
+    &lt;/div&gt;
+
+    &lt;/ul&gt;
+    &lt;h1&gt;Ressources&lt;/h1&gt;
+    &lt;p&gt;
+        &lt;span class="label label-primary"&gt;ANSM&lt;/span&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href="http://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0157439.htm" target="_blank"&gt;RCP 18-FDG&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;span class="label label-primary"&gt;Harvard&lt;/span&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href="http://www.med.harvard.edu/JPNM/chetan/basics/basics.html" target="_blank"&gt;'Basics of FDG'&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/p&gt;
+
+
+</summary><category term="TEP"></category><category term="18-FDG"></category></entry></feed>

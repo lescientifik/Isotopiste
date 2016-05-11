@@ -2,8 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Isotopiste</title><link href="http://lescientifik.github.io/Isotopiste/" rel="alternate"></link><link href="http://lescientifik.github.io/Isotopiste/feeds/pathologie.atom.xml" rel="self"></link><id>http://lescientifik.github.io/Isotopiste/</id><updated>2016-05-06T00:00:00+02:00</updated><entry><title>Lymphome en PET Scan</title><link href="http://lescientifik.github.io/Isotopiste/lymphome-en-pet-scan.html" rel="alternate"></link><published>2016-05-06T00:00:00+02:00</published><author><name>HENRY Theophraste</name></author><id>tag:lescientifik.github.io,2016-05-06:Isotopiste/lymphome-en-pet-scan.html</id><summary type="html">
 
 
-    &lt;h1&gt;Generalites&lt;/h1&gt;
+    &lt;h1&gt;Généralites&lt;/h1&gt;
     &lt;h2&gt;Lymphomes non hodgkiniens (LNH)&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;épidemiologie : plus de 60 ans&lt;/li&gt;
+        &lt;li&gt;atteinte extra-ganglionnaire initiale dans 40% des cas&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;div class="table-responsive"&gt;
         &lt;table class="table-bordered table-striped"&gt;
             &lt;tr&gt;
@@ -22,18 +26,18 @@
                     Frequence
                 &lt;/td&gt;
                 &lt;td&gt;
-                    50 a 60%
+                    50 à 60%
                 &lt;/td&gt;
                 &lt;td&gt;
-                    40 a 50%
+                    40 à 50%
                 &lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
                 &lt;td&gt;
-                    Histologie la plus frequente
+                    Histologie la plus fréquente
                 &lt;/td&gt;
                 &lt;td&gt;
-                    diffus a grandes cellules B (60%)
+                    diffus à grandes cellules B (60%)
                 &lt;/td&gt;
                 &lt;td&gt;
                     folliculaire (80%)
@@ -41,7 +45,7 @@
             &lt;/tr&gt;
             &lt;tr&gt;
                 &lt;td&gt;
-                    Presentation
+                    Présentation
                 &lt;/td&gt;
                 &lt;td&gt;
                     Symptomatique
@@ -58,7 +62,7 @@
                     Rapide (en quelques semaines)
                 &lt;/td&gt;
                 &lt;td&gt;
-                    Lentement progressive (plusieurs mois, voire annees)
+                    Lentement progressive (plusieurs mois, voire années)
                 &lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
@@ -66,7 +70,7 @@
                     Evolution
                 &lt;/td&gt;
                 &lt;td&gt;
-                    pejorative sans traitement
+                    péjorative sans traitement
                 &lt;/td&gt;
                 &lt;td&gt;
                     Lente. Possibilite de transformation agressive
@@ -78,32 +82,32 @@
                 &lt;/td&gt;
                 &lt;td&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;Des le diagnostic&lt;/li&gt;
-                        &lt;li&gt;Chimiotherapie +/- immunotherapie en 1ere intention&lt;/li&gt;
+                        &lt;li&gt;Dès le diagnostic&lt;/li&gt;
+                        &lt;li&gt;Chimiothérapie +/- immunotherapie en 1ere intention&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/td&gt;
                 &lt;td&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;Abstention therapeutique possible en 1ere intention si&lt;/li&gt;
+                        &lt;li&gt;Abstention thérapeutique possible en 1ere intention si&lt;/li&gt;
                         &lt;ul&gt;
                             &lt;li&gt;faible masse tumorale et &lt;/li&gt;
                             &lt;li&gt;patient asymptomatique&lt;/li&gt;
                         &lt;/ul&gt;
-                        &lt;li&gt;Immunochimiotherapie en 1ere intention sinon&lt;/li&gt;
+                        &lt;li&gt;Immunochimiothérapie en 1ere intention sinon&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
                 &lt;td&gt;
-                    reponse au traitement
+                    réponse au traitement
                 &lt;/td&gt;
                 &lt;td&gt;
-                    Possibilite de guerison complete
+                    Possibilité de guérison complète
                 &lt;/td&gt;
                 &lt;td&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;Remission&lt;/li&gt;
-                        &lt;li&gt;Rechutes relativement frequentes avec resistance au ttt au fur et a mesure&lt;/li&gt;
+                        &lt;li&gt;Rémission&lt;/li&gt;
+                        &lt;li&gt;Rechutes relativement fréquentes avec résistance au ttt au fur et à mesure&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/td&gt;
             &lt;/tr&gt;
@@ -113,13 +117,9 @@
     &lt;p&gt;
         &lt;ul&gt;
             &lt;li&gt;Anatomopathologie : cellules de Reed Sternberg&lt;/li&gt;
-            &lt;li&gt;4 sous-types histologiques:&lt;/li&gt;
-            &lt;ul&gt;
-                &lt;li&gt;sclero-nodulaire&lt;/li&gt;
-                &lt;li&gt;a cellularite mixte&lt;/li&gt;
-                &lt;li&gt;riche en lymphocytes&lt;/li&gt;
-                &lt;li&gt;a depletion lymphocytaire&lt;/li&gt;
-            &lt;/ul&gt;
+            &lt;li&gt;Le sous-type histologique ne modifie pas la prise en charge&lt;/li&gt;
+            &lt;li&gt;2 pics d'incidence: 20-30 ans et plus de 60 ans&lt;/li&gt;
+            &lt;li&gt;survie à 5 ans: 84%&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/p&gt;
 
@@ -163,7 +163,7 @@
                 &lt;/tr&gt;
                 &lt;tr class="danger"&gt;
                     &lt;td colspan="2"&gt;
-                        Stade avance
+                        Stade avancé
                     &lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
@@ -180,7 +180,7 @@
                         IV
                     &lt;/td&gt;
                     &lt;td&gt;
-                        Atteintes extra-ganglionnaire distincte d’une localisation extra-ganglionnaire contiguë (=viscerales)&lt;/td&gt;
+                        Atteintes extra-ganglionnaire distincte d’une localisation extra-ganglionnaire contiguë (=viscérales)&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/table&gt;
             &lt;div class="well"&gt;
@@ -206,11 +206,11 @@
         &lt;/div&gt;
         &lt;div class="col-md-6"&gt;
             &lt;figure&gt;
-            &lt;img class="img-responsive" src="http://lescientifik.github.io/Isotopiste/static/Diagram_showing_the_lymph_nodes_lymphoma_most_commonly_develops_in_CRUK_311.svg" alt="lymphome" /&gt;
+            &lt;img class="img-responsive" src="http://lescientifik.github.io/Isotopiste/static/aires-ganglionnaires_lymphome.svg" alt="lymphome" /&gt;
                 &lt;figcaption&gt;By Cancer Research UK - Original email from CRUK, &lt;a title="Creative Commons Attribution-Share Alike 4.0" href="http://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=34334121"&gt;Source&lt;/a&gt;&lt;/figcaption&gt;
             &lt;/figure&gt;
             &lt;p&gt;
-                A noter que une aire ganglionnaire est defini bilateralement (peu importe s'il y a une atteinte bilaterale ou unilaterale, cela fait une aire atteinte)
+                A noter qu'une aire ganglionnaire est defini bilatéralement (peu importe s'il y à une atteinte bilatérale ou unilatérale, cela fait une aire atteinte)
             &lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -219,10 +219,10 @@
 
 
 
-    &lt;h1&gt;Examens complementaires&lt;/h1&gt;
+    &lt;h1&gt;Examens complémentaires&lt;/h1&gt;
     &lt;h2&gt;Diagnostic positif&lt;/h2&gt;
     &lt;p&gt;
-        &lt;strong&gt;Realisation d'une biopsie avec analyse antomo-pathologique +++&lt;/strong&gt;
+        &lt;strong&gt;Réalisation d'une biopsie avec analyse antomo-pathologique +++&lt;/strong&gt;
     &lt;/p&gt;
 
     &lt;h2&gt;Bilan d'extension en imagerie&lt;/h2&gt;
@@ -230,15 +230,15 @@
         &lt;ul&gt;
             &lt;li&gt;&lt;strong&gt;CTAP scan&lt;/strong&gt;&lt;/li&gt;
             &lt;ul&gt;
-                &lt;li&gt; CIBLE: jusqu'a 6 des plus gros ganglions, masses nodulaires ou autres lesions lymphomateuses, mesurables dans deux diametres (longest diameter [LDi] and shortest diameter)&lt;/li&gt;
+                &lt;li&gt; CIBLE: jusqu'a 6 des plus gros ganglions, masses nodulaires ou autres lésions lymphomateuses, mesurables dans deux diamètres (longest diameter [LDi] and shortest diameter)&lt;/li&gt;
                 &lt;ul&gt;
                     &lt;li&gt;ganglion mesurable si LDi &gt; 1.5cm &lt;/li&gt;
                     &lt;li&gt;atteinte extra-ganglionnaire mesurable si LDi &gt; 1cm&lt;/li&gt;
-                    &lt;li&gt;Suivi des autres lesions suivi comme non mesurables (mais suivi!)&lt;/li&gt;
+                    &lt;li&gt;Suivi des autres lésions en tant que lésions non mesurables (mais suivi!)&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;li&gt;&lt;span class="label label-default"&gt;Remarque&lt;/span&gt; splenomegalie si &gt; 9,8cm de plus grande longueur (source: &lt;a href="http://www.ajronline.org/doi/full/10.2214/ajr.184.5.01841510#_i2" target="_blank"&gt;American Journal of Roentgenology,Volume 184, Issue 5&lt;/a&gt;)&lt;/li&gt;
-                &lt;li&gt;representative de la charge tumorale du patient&lt;/li&gt;
-                &lt;li&gt;incluant le mediastin et le retroperitoine si atteints&lt;/li&gt;
+                &lt;li&gt;&lt;span class="label label-default"&gt;Remarque&lt;/span&gt; splénomegalie si &gt; 9,8cm de plus grande longueur (source: &lt;a href="http://www.ajronline.org/doi/full/10.2214/ajr.184.5.01841510#_i2" target="_blank"&gt;American Journal of Roentgenology,Volume 184, Issue 5&lt;/a&gt;)&lt;/li&gt;
+                &lt;li&gt;représentative de la charge tumorale du patient&lt;/li&gt;
+                &lt;li&gt;incluant le médiastin et le rétropéritoine si atteints&lt;/li&gt;
             &lt;/ul&gt;
             &lt;li&gt;&lt;strong&gt;TEP scan au 18-FDG +++&lt;/strong&gt;&lt;/li&gt;
         &lt;/ul&gt;
@@ -247,41 +247,41 @@
 
 
 
-    &lt;h1&gt;Place de la  TEP dans le bilan d'extension et l'evaluation de la reponse&lt;/h1&gt;
+    &lt;h1&gt;Place de la  TEP dans le bilan d'extension et l'évaluation de la réponse&lt;/h1&gt;
     &lt;h2&gt;Bilan d'extension&lt;/h2&gt;
     &lt;p&gt;
         &lt;ul&gt;
-            &lt;li&gt;PET en &lt;strong&gt;systematique&lt;/strong&gt; pour tous les lymphomes fixant le FDG (manteau +++, mais egalement tous les autres sauf LLC, lymphome lymphocytique ou lymphoplasmique, maladie de Waldenstrom, mycosis fongoide et lymphone de la zone marginale.)
+            &lt;li&gt;PET en &lt;strong&gt;systématique&lt;/strong&gt; pour tous les lymphomes fixant le FDG (manteau +++, mais également tous les autres sauf LLC, lymphome lymphocytique ou lymphoplasmique, maladie de Waldenstrom, mycosis fongoide et lymphone de la zone marginale.)
                 PET &gt; CT si le lymphome est avide en FDG, dans le cas contraire on se rabat uniquement sur le CT&lt;/li&gt;
-            &lt;li&gt;&lt;strong&gt;Pour la HAS:&lt;/strong&gt; lymphomes diffus a grandes cellules en systematique, les autres LNH au cas par cas.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Pour la HAS:&lt;/strong&gt; lymphomes diffus à grandes cellules en systématique, les autres LNH au cas par cas.&lt;/li&gt;
             &lt;li&gt; Evaluation utilisant la classification d'Ann Arbor pour le "staging" initial&lt;/li&gt;
             &lt;ul&gt;
-                &lt;li&gt;&lt;span class="label label-warning"&gt;Remarque&lt;/span&gt; Le traitement ne depend pas uniquement du "staging" selon la classification d'Ann Arbor que d'autres parametres, notamment biologiques.&lt;/li&gt;
+                &lt;li&gt;&lt;span class="label label-warning"&gt;Remarque&lt;/span&gt; Le traitement ne dépend pas uniquement du "staging" selon la classification d'Ann Arbor mais aussi d'autres paramètres, notamment biologiques.&lt;/li&gt;
             &lt;/ul&gt;
         &lt;/ul&gt;
     &lt;/p&gt;
 
-    &lt;h2&gt;Evaluation de la reponse&lt;/h2&gt;
-    &lt;h3&gt;Criteres d'evaluation&lt;/h3&gt;
+    &lt;h2&gt;Evaluation de la réponse&lt;/h2&gt;
+    &lt;h3&gt;Critères d'évaluation&lt;/h3&gt;
     &lt;span class="label label-info"&gt;Classification&lt;/span&gt;
     &lt;div class="well"&gt;
-        Utilisation des criteres de Deauville, reconnus internationalement:
+        Utilisation des critères de Deauville, reconnus internationalement:
         &lt;ol&gt;
             &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; = 0&lt;/li&gt;
             &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; &amp;lt; Fixation[mediastin]&lt;/li&gt;
             &lt;li&gt;Fixation[mediastin] &amp;lt; &lt;b&gt;Fixation&lt;/b&gt; &amp;le; Fixation[foie]&lt;/li&gt;
-            &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; &amp;gt; Fixation[foie] (legerement a moderement superieur)&lt;/li&gt;
-            &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; &amp;gt;&amp;gt; Fixation[foie] OU apparition de nouvelles lesions&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; &amp;gt; Fixation[foie] (legerement à moderement superieur)&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Fixation&lt;/b&gt; &amp;gt;&amp;gt; Fixation[foie] OU apparition de nouvelles lésions&lt;/li&gt;
         &lt;/ol&gt;
     &lt;/div&gt;
     &lt;h3&gt;Grilles de lecture&lt;/h3&gt;
-    &lt;h4&gt;Reponse complete&lt;/h4&gt;
+    &lt;h4&gt;Réponse complete&lt;/h4&gt;
     &lt;span class="label label-info"&gt;TEP scan&lt;/span&gt;
     &lt;div class="well"&gt;
         &lt;ul&gt;
-            &lt;li&gt;ganglions et sites extra-ganglionnaires: score &amp;le; 3, avec ou sans masse residuelle&lt;/li&gt;
-            &lt;li&gt;&lt;span class="label label-warning"&gt;Remarque&lt;/span&gt; Il est admis que certains sites ont une activation physiologique superieure a celle du mediastin et/ou du foie (rate ou moelle activee). Dans ce cas, la reponse complete est affirme si les
-                lieux considerees ne fixent pas plus que le tissu normal environnant.&lt;/li&gt;
+            &lt;li&gt;ganglions et sites extra-ganglionnaires: score &amp;le; 3, avec ou sans masse résiduelle&lt;/li&gt;
+            &lt;li&gt;&lt;span class="label label-warning"&gt;Remarque&lt;/span&gt; Il est admis que certains sites ont une activation physiologique superieure à celle du médiastin et/ou du foie (rate ou moelle activéresiduellee). Dans ce cas, la réponse complète est affirmée si les
+                lieux considerés ne fixent pas plus que le tissu normal environnant.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;span class="label label-info"&gt;CT&lt;/span&gt;
@@ -289,28 +289,28 @@
         &lt;ul&gt;
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
-                    &lt;li&gt;CIBLE &amp;le; 1.5cm en plus grand diametre transverse (LDi)&lt;/li&gt;
+                    &lt;li&gt;CIBLE &amp;le; 1.5cm en plus grand diamètre transverse (LDi)&lt;/li&gt;
                 &lt;/ul&gt;
                 &lt;li&gt;pas de sites extraganglionnaires atteints&lt;/li&gt;
-                &lt;li&gt;pas de lesion non mesurable&lt;/li&gt;
-                &lt;li&gt;Organomegalie: regression ou absence.&lt;/li&gt;
+                &lt;li&gt;pas de lésion non mesurable&lt;/li&gt;
+                &lt;li&gt;Organomégalie: regression ou absence.&lt;/li&gt;
                 &lt;li&gt;pas d'atteinte medullaire (ou regression)&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;h4&gt;Reponse partielle&lt;/h4&gt;
+    &lt;h4&gt;Réponse partielle&lt;/h4&gt;
     &lt;span class="label label-info"&gt;TEP scan&lt;/span&gt;
     &lt;div class="well"&gt;
         &lt;ul&gt;
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
-                    &lt;li&gt;Score 4 a 5 avec diminution de la fixation, peu importe la taille de la masse residuelle&lt;/li&gt;
+                    &lt;li&gt;Score 4 à 5 avec diminution de la fixation, peu importe la taille de la masse residuelle&lt;/li&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;En cours de traitement: en faveur d'une reponse au traitemetn&lt;/li&gt;
+                        &lt;li&gt;En cours de traitement: en faveur d'une réponse au traitemetn&lt;/li&gt;
                         &lt;li&gt;En fin de traitement: en faveur d'une maladie residuelle&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/ul&gt;
             &lt;/li&gt;
-            &lt;li&gt;Moelle: Fixation &amp;gt; fixation moelle normale mais inferieure a la fixation initiale.&lt;/li&gt;
+            &lt;li&gt;Moelle: Fixation &amp;gt; fixation moelle normale mais inferieure à la fixation initiale.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;span class="label label-info"&gt;CT&lt;/span&gt;
@@ -318,26 +318,26 @@
         &lt;ul&gt;
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
-                    &lt;li&gt;Diminution &amp;ge; 50% de la somme des PPD= &amp;Sigma;(LDi x diametre perpendiculaire au LDi) pour les 6 lesions CIBLES (SPD = &amp;Sigma;(PPD))&lt;/li&gt;
+                    &lt;li&gt;Diminution &amp;ge; 50% de la somme des PPD= &amp;Sigma;(LDi x diametre perpendiculaire au LDi) pour les 6 lésions CIBLES (SPD = &amp;Sigma;(PPD))&lt;/li&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;Si lesion trop petite pour mesure: valeur par defaut: 5x5mm&lt;/li&gt;
-                        &lt;li&gt;Si lesion invisible: 0x0mm&lt;/li&gt;
-                        &lt;li&gt;Si lesion &amp;gt; 5x5mm, mesurer comme les autres lesions.&lt;/li&gt;
+                        &lt;li&gt;Si lésion trop petite pour mesure: valeur par defaut: 5x5mm&lt;/li&gt;
+                        &lt;li&gt;Si lésion invisible: 0x0mm&lt;/li&gt;
+                        &lt;li&gt;Si lésion &amp;gt; 5x5mm, mesurer comme les autres lésions.&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/ul&gt;
             &lt;/li&gt;
-            &lt;li&gt;Rate: taille diminuee, inferieur a 150% de la taille d'une rate normale.&lt;/li&gt;
+            &lt;li&gt;Rate: taille diminuée, inferieur à 150% de la taille d'une rate normale.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;h4&gt;Maladie stable, absence de reponse&lt;/h4&gt;
+    &lt;h4&gt;Maladie stable, absence de réponse&lt;/h4&gt;
     &lt;span class="label label-info"&gt;TEP scan&lt;/span&gt;
     &lt;div class="well"&gt;
         &lt;ul&gt;
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
-                    &lt;li&gt;Score 4 a 5 sans diminution significative de la fixation, peu importe la taille de la masse residuelle&lt;/li&gt;
+                    &lt;li&gt;Score 4 à 5 sans diminution significative de la fixation, peu importe la taille de la masse residuelle&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;li&gt;Moelle: pas de changement par rapport a la baseline.&lt;/li&gt;
+                &lt;li&gt;Moelle: pas de changement par rapport à la baseline.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;span class="label label-info"&gt;CT&lt;/span&gt;
@@ -346,7 +346,7 @@
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
                     &lt;li&gt;Diminution
-                        &lt; 50% pour la SPD des 6 lesions CIBLES&lt;/li&gt;
+                        &lt; 50% pour la SPD des 6 lésions CIBLES&lt;/li&gt;
                 &lt;/ul&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
@@ -357,34 +357,34 @@
             &lt;li&gt;ganglions et sites extra-ganglionnaires:
                 &lt;ul&gt;
                     &lt;li&gt;Score 4 ou 5 avec augmentation de la fixation OU&lt;/li&gt;
-                    &lt;li&gt;Apparition de nouvelles lesions (lymphatiques, extra-lymphatiques ou medullaires)&lt;/li&gt;
+                    &lt;li&gt;Apparition de nouvelles lésions (lymphatiques, extra-lymphatiques ou medullaires)&lt;/li&gt;
                 &lt;/ul&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;span class="label label-info"&gt;CT&lt;/span&gt;
     &lt;div class="well"&gt;
         &lt;ul&gt;
-            &lt;li&gt;Au moins 1 des criteres suivants sur une lesion CIBLE au moins:
+            &lt;li&gt;Au moins 1 des critères suivants sur une lésion CIBLE au moins:
                 &lt;ul&gt;
                     &lt;li&gt;LDi &amp;gt; 1.5cm ET PPD &amp;ge; 50% Nadir&lt;/li&gt;
-                    &lt;li&gt;+0.5 cm (si lesion &amp;le; 2cm) ou 1cm (si lesion &amp;gt; 2cm) pour le LDi ou le SDi&lt;/li&gt;
-                    &lt;li&gt;majoration de la splenomegalie &amp;ge; 50% par rapport a son augmentation initiale par rapport a la normale&lt;/li&gt;
+                    &lt;li&gt;+0.5 cm (si lésion &amp;le; 2cm) ou 1cm (si lésion &amp;gt; 2cm) pour le LDi ou le SDi&lt;/li&gt;
+                    &lt;li&gt;majoration de la splénomegalie &amp;ge; 50% par rapport à son augmentation initiale par rapport à la normale&lt;/li&gt;
                     &lt;ul&gt;
-                        &lt;li&gt;si absence de splenomegalie initiale, augmentation &amp;gt; 2cm&lt;/li&gt;
+                        &lt;li&gt;si absence de splénomegalie initiale, augmentation &amp;gt; 2cm&lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/ul&gt;
-                &lt;li&gt;Nouvelles lesions ou progressions de lesions auparavant non mesurables&lt;/li&gt;
-                &lt;li&gt;Aumgentation en taille d'anciennes lesions&lt;/li&gt;
+                &lt;li&gt;Nouvelles lésions ou progressions de lésions auparavant non mesurables&lt;/li&gt;
+                &lt;li&gt;Aumgentation en taille d'anciennes lésions&lt;/li&gt;
                 &lt;ul&gt;
                     &lt;li&gt; &amp;gt; 1.5cm pour un ganglion&lt;/li&gt;
-                    &lt;li&gt;&amp;gt; 1cm dans n'importe quel axe pour une lesion non ganglionnaire&lt;/li&gt;
+                    &lt;li&gt;&amp;gt; 1cm dans n'importe quel axe pour une lésion non ganglionnaire&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;li&gt;Nouvelle lesion ou lesion recurrente de la moelle&lt;/li&gt;
+                &lt;li&gt;Nouvelle lésion ou lésion recurrente de la moelle&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;h2&gt;Pieges&lt;/h2&gt;
+    &lt;h2&gt;Pièges&lt;/h2&gt;
     &lt;p&gt;
-        La prise de corticoides peut faussement negativer le PET scan.
+        La prise de corticoïdes peut faussement négativer le PET scan.
     &lt;/p&gt;
     &lt;h1&gt;Ressources&lt;/h1&gt;
     &lt;p&gt;
@@ -397,14 +397,14 @@
     &lt;p&gt;
         &lt;span class="label label-primary"&gt;Journal of Clinical Oncology&lt;/span&gt;
         &lt;ul&gt;
-            &lt;li&gt;&lt;a href="http://jco.ascopubs.org/content/32/27/3059.long"&gt;Recommandations&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="http://jco.ascopubs.org/content/32/27/3059/T3.expansion.html#fn-6"&gt;Criteres de Reponse&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://jco.ascopubs.org/content/32/27/3059.long" target="_blank"&gt;Recommandations&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://jco.ascopubs.org/content/32/27/3059/T3.expansion.html#fn-6" target="_blank"&gt;Criteres de Reponse&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/p&gt;
     &lt;p&gt;
         &lt;span class="label label-primary"&gt;College d'hematologie&lt;/span&gt;
         &lt;ul&gt;
-            &lt;li&gt;&lt;a href="http://campus.cerimes.fr/hematologie/enseignement/hematologie_164/site/html/1.html"&gt;Cours&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://campus.cerimes.fr/hematologie/enseignement/hematologie_164/site/html/1.html" target="_blank"&gt;Cours&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/p&gt;
 
